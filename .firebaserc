@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "chayen"
+  },
+  "targets": {
+    "chayen": {
+      "hosting": {
+        "my-nurse-duty": [
+          "my-nurse-duty"
+        ]
+      }
+    }
+  }
+}

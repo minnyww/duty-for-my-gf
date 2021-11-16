@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "target": "my-nurse-duty",
+    "public": "build",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
